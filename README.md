@@ -6,21 +6,61 @@ This repository contains my solutions for the [Advent of Code](https://adventofc
 
 The repository is organized by year and day. Each folder contains the code and any additional resources used to solve that day's puzzle.
 
-## Languages Used
-
-- Rust
-
-## How to Run
-
-To run the solutions, you need to have Rust installed. You can install Rust from [here](https://www.rust-lang.org/tools/install).
-
-Navigate to the directory of the puzzle you want to run and use the following command:
-
-```sh
-cargo run
+### High-level overview
 
 ```
-Contribution
-------------
-Feel free to fork this repository and submit pull requests. Any improvements or additional solutions are welcome!
-
+2024/
+├── 01/
+│   ├── first_star/
+│   │   ├── input.txt
+│   │   ├── question.txt
+│   │   ├── first_exercise/
+│   │   │   └── code...
+│   │   └── solution.ext
+│   └── second_star/
+│       ├── input.txt
+│       ├── question.txt
+│       ├── second_exercise/
+│       │   └── code...
+│       └── solution.ext
+├── 02/
+│   ├── first_star/
+│   │   ├── input.txt
+│   │   ├── question.txt
+│   │   ├── first_exercise/
+│   │   │   └── code...
+│   │   └── solution.ext
+│   └── second_star/
+│       ├── input.txt
+│       ├── question.txt
+│       ├── second_exercise/
+│       │   └── code...
+│       └── solution.ext
+├── 03/
+│   ├── first_star/
+│   │   ├── input.txt
+│   │   ├── question.txt
+│   │   ├── first_exercise/
+│   │   │   └── code...
+│   │   └── solution.ext
+│   └── second_star/
+│       ├── input.txt
+│       ├── question.txt
+│       ├── second_exercise/
+│       │   └── code...
+│       └── solution.ext
+├── ...
+└── 25/
+    ├── first_star/
+    │   ├── input.txt
+    │   ├── question.txt
+    │   ├── first_exercise/
+    │   │   └── code...
+    │   └── solution.ext
+    └── second_star/
+        ├── input.txt
+        ├── question.txt
+        ├── second_exercise/
+        │   └── code...
+        └── solution.ext
+```
